@@ -1,9 +1,9 @@
-# Spark Brilliance ✨
+# Spark Brillliance ✨
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://sparkbrillliance.com)
 [![Email](https://img.shields.io/badge/Email-contact-orange)](mailto:hello@sparkbrillliance.com)
 
-Welcome to **Spark Brilliance** – where **creativity meets technology**!  
+Welcome to **Spark Brillliance** – where **creativity meets technology**!  
 
 We specialize in **Brand Design, Cinematography, Graphic Design**, and **Web Development**, helping businesses and creators shine online.
 
